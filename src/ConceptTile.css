@@ -1,0 +1,24 @@
+.displayName{
+  float:left;
+  width:20%;
+}
+
+.concept-tile{
+  height:30px;
+  float:left;
+  width: 100%;
+}
+
+.description{
+  width: 40%;
+  float: left;
+}
+
+.edit-button{
+  float: right;
+  margin-right:10%;
+}
+.alter-button{
+  float:right;
+  margin-right:5%;
+}

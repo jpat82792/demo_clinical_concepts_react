@@ -1,0 +1,30 @@
+.show{
+  display:block;
+}
+.hide{
+  display:none;
+}
+
+.modal{
+  position: fixed;
+  z-index: 100;
+  width: 100%;
+  height: 100%;
+  top: 0px;
+  background-color: rgba(.3,.3,.3,.5);
+}
+.modal-content{
+  background-color:white;
+  width:50%;
+  float:none;
+  margin-right:25%;
+  margin-left:25%;
+}
+
+.close-button{
+  float:right;
+}
+
+.concept-description{
+  display:block;
+}
